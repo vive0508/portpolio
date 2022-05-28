@@ -2,7 +2,7 @@
 ===
 
 ### EDA / 웹 스크래핑 / 파이썬 프로그래밍
-- [서울시 CCTV 현황 데이터 분석]()     
+- [서울시 CCTV 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Analysis%20Seoul%20CCTV.ipynb)     
 - [서울시 범죄 현황 데이터 분석]()   
 - [웹 데이터 분석]()   
 - [유가 분석]()   
