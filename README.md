@@ -1,14 +1,17 @@
 포트폴리오
 ===
 
-### EDA / 웹 스크래핑 / 파이썬 프로그래밍
-- [서울시 CCTV 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Analysis%20Seoul%20CCTV.ipynb)     
-- [서울시 범죄 현황 데이터 분석]()   
-- [웹 데이터 분석]()   
-- [유가 분석]()   
-- [시계열 분석]()   
-- [Naver API]()   
-- [인구분석]()   
+### 토이 프로젝트
+| 프로젝트명 | EDA | 웹스크래핑 |
+|:-- |:--:|:--:|
+| [서울시 CCTV 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis%20Seoul%20CCTV.ipynb)| O | |
+| [서울시 범죄 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis%20Seoul%20Crime.ipynb)| O | |
+| [웹 데이터 분석]() | | |
+| [유가 분석]() | | |
+| [시계열 분석]() | | |
+| [Naver API]() | | |
+| [인구분석]() | | |
+ 
 
 ### 머신러닝
 - [타이타닉 생존자분석]()   
