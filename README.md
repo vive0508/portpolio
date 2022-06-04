@@ -6,12 +6,13 @@
 |:-- |:--:|:--:|
 | [서울시 CCTV 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis%20Seoul%20CCTV.ipynb)| O | |
 | [서울시 범죄 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis%20Seoul%20Crime.ipynb)| O | |
-| [웹 데이터 분석]() | | |
+| [시카고 맛집 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Chicago%20top50.ipynb) | O | O |   
 | [유가 분석]() | | |
 | [시계열 분석]() | | |
 | [Naver API]() | | |
 | [인구분석]() | | |
  
+
 
 ### 머신러닝
 - [타이타닉 생존자분석]()   
