@@ -4,11 +4,11 @@
 ### 토이 프로젝트
 | 프로젝트명 | EDA | 웹스크래핑 |
 |:-- |:--:|:--:|
-| [서울시 CCTV 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis%20Seoul%20CCTV.ipynb)| O | |
-| [서울시 범죄 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis%20Seoul%20Crime.ipynb)| O | |
-| [시카고 맛집 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Chicago%20top50.ipynb) | O | O |   
-| [유가 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Self%20Oil%20Station%20Prcie%20Analysis.ipynb) | O |  |
-| [이디야 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/ediya%20location.ipynb) | O | O |
+| [서울시 CCTV 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis_Seoul_CCTV.ipynb)| O | |
+| [서울시 범죄 현황 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Analysis_Seoul_Crime.ipynb)| O | |
+| [시카고 맛집 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Chicago_top_50.ipynb)| O | O |   
+| [유가 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/Self_Oil_Station_Price_Analysis.ipynb) | O |  |
+| [이디야 데이터 분석](https://github.com/vive0508/portpolio/blob/main/Toy_Projects/ediya_location.ipynb) | O | O |
 
 
 <!--
